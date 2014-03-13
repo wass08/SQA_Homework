@@ -33,3 +33,16 @@ Distinction between **functionnal** (input and expected output without knoweledg
 
 ## Rate 5 classmates
 
+*I tried a lot of depositories and I can't find other second week homeworks. So I only rate 4 classmates.*
+
+**13126148** : 7/10 Complete but only keywords and no sentences
+
+**13126141** : 7/10 A bit ambiguous sometimes
+
+**https://github.com/MarcCaesars/SQA (Id not found)** : 6/10 Short and not structured
+
+**13126083** : 9/10 Very complete and structured
+
+
+
+
